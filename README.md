@@ -53,6 +53,15 @@ The app is designed to provide a clean Arabic-first experience with offline Qura
 |---|---|---|
 | ![](screenshots/azkar.png) | ![](screenshots/settings-light.png) | ![](screenshots/settings-dark.png) |
 
+### Additional Views
+
+| Onboarding | Quran Audio |
+|---|---|
+| ![](screenshots/onboarding.png) | ![](screenshots/quran-audio.png) |
+
+| Islamic Theme | Islamic Dark Mode |
+|---|---|
+| ![](screenshots/quran-home-islamic.png) | ![](screenshots/quran-home-islamic-dark.png) |
 ## Tech Stack
 
 - Flutter
